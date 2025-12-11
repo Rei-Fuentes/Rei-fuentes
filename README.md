@@ -4,8 +4,6 @@
 # Reiner Fuentes-Ferrada, PhD(c)  
 **Psicólogo | Científico de Datos | Investigador en Salud Mental, Ciencias Cognitivas y del Comportamiento**  
 
-Aprovechando análisis avanzados e inteligencia artificial para descifrar patrones de comportamiento humano y salud mental. 
-
 </div>
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5966--3907-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5966-3907)
